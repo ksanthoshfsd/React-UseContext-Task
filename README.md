@@ -1,8 +1,7 @@
-# React + Vite
+ROAD MAP DAY 28 MY TODO TASK 17 COMPLETED
+Get JSON data and create a cart page with per item price , per item quantity,
+Total quantity and total amount
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Functionalities Required
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+It needs to increase or decrease the per unit quantity, which should automatically update the total Quantity and Amount.
